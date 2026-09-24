@@ -1,2 +1,2 @@
-# Roast-My-Repo
-«Roast My Repo» یک CLI مبتنی بر Node.js است که پروژه‌های جاوااسکریپت را اسکن می‌کند و معیارهای کد را به گزارشی طنزآمیز تبدیل می‌کند. این ابزار فایل‌های بزرگ، کامنت‌های TODO/FIXME، توابع طولانی و فایل‌هایی را که بیشترین تعداد خط را دارند پیدا می‌کند.
+Roast My Repo is a Node.js CLI that scans JavaScript projects and turns code metrics into a humorous report.
+It finds large files, TODO/FIXME comments, long functions, and files with the most lines.
